@@ -1,10 +1,3 @@
-//
-//  IssueAppApp.swift
-//  IssueApp
-//
-//  Created by Dirk Rademann on 01.12.23.
-//
-
 import SwiftUI
 
 @main
